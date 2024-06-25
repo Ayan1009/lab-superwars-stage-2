@@ -29,8 +29,8 @@
     height: auto;
 }
 
-.player>.strength {
-    font-size: 3em;
+.strength {
+    font-size: 30px;
 }
 
 #score {
